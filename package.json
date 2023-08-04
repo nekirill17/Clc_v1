@@ -1,8 +1,7 @@
 {
   "name": "calculator",
   "version": "0.1.0",
-  "private": true,
-  "homepage": "https://nekirill17.github.io/Calc",
+  "private": false,
   "dependencies": {
     "@emotion/react": "^11.5.0",
     "@emotion/styled": "^11.3.0",
