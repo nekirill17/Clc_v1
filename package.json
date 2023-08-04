@@ -2,6 +2,7 @@
   "name": "calculator",
   "version": "0.1.0",
   "private": false,
+  "homepage": "https://clc-v1-2y3kpxnyc-nekirill17.vercel.app/",
   "dependencies": {
     "@emotion/react": "^11.5.0",
     "@emotion/styled": "^11.3.0",
